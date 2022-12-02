@@ -1,5 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Dice1 from "./images";
+import Dice2 from "./images";
+import Dice3 from "./images";
+import Dice4 from "./images";
+import Dice5 from "./images";
+import Dice6 from "./images";
 
 function App() {
   return (
